@@ -42,10 +42,11 @@ Pythons-in-Candyland/
 │   ├── ascii_art.py    # some ASCII images used in the demo
 │   ├── characters.py   # character definitions
 │   └── game.py         # main loop and gameplay functions
+│   └── lands/         # separate modules representing different lands with interactive scenarios
 ├── tests/              # simple unit tests for core classes
 │   └── test_game.py
 ├── requirements.txt    # dependencies for running tests
 └── README.md           # this documentation
 ```
 
-Feel free to modify the characters, events, and scoring rules to make the game as rich as your classroom imagination allows.  Happy coding!  :snake: :candy:
+Feel free to modify the characters, lands, story events, and scoring rules to make the game as rich as your classroom imagination allows.  Happy coding!  :snake: :candy:
